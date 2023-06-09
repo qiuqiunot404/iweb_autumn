@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="d608_server_359:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/d608_server_359_jar</output-path>
+    <root id="archive" name="d608_server_359.jar">
+      <element id="module-output" name="d608_server_359" />
+    </root>
+  </artifact>
+</component>

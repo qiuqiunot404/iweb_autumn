@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lombok-1.18.12 ">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/temp/lombok-1.18.12 .jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/temp/mysql-connector-java-5.0.8-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
